@@ -72,3 +72,11 @@ function somar(val1, val2, val3){
     console.log("----------atividade3----------");
 console.log("Fatorial de 5! =", 5 * 4 * 3 * 2 * 1);
 
+console.log("--------------atividade1---------")
+const imparpar = (num) =>{
+return num % 2 == 0? "O número é par!" : "O número e ímpar"
+};
+console.log(imparpar(10));
+console.log(imparpar(3));
+console.log(imparpar(2));
+
