@@ -72,6 +72,9 @@ console.log(`Matriz[][] = {matriz[${linha}][${coluna}] = ${matriz[linha][coluna]
   
 
 
+// Laço Repetição - while / do while
+
+
 
 
     
